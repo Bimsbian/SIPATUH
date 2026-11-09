@@ -1,0 +1,6 @@
+{
+  "name": "SI PATUH - Inspektorat Kabupaten Probolinggo",
+  "description": "Sistem Informasi Penjadwalan Pengawasan Tahunan Terpadu dan Humanis (SI PATUH) - Kelola PKPT, jadwal pengawasan, monitoring, dokumen, dan pelaporan multi-tahun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
